@@ -6,5 +6,17 @@ header {
   background-color:darkorange;
   color:black;
 }
-  
-  
+h1 {
+  background-color:Purple;
+  color:black;
+}
+
+footer {
+  background-color:Khaki;
+  color:black;
+}
+
+p{
+  background-color:Cyan;
+  color:black;
+}
